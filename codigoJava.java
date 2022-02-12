@@ -26,7 +26,10 @@ public class Recursividad {
 
         return Mayor(array, ++n, mayor);
     }
-    
+    public void decirHola()
+    {
+        System.out.println(subCadena("Hola soy William");
+    }
     
     static String subCadena(String cadena, int s, int e)
     {
